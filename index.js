@@ -1,6 +1,5 @@
 function copy(data,callback) {
   if(data && (typeof data === 'string' || typeof data === 'object')){
-    console.log(data)
     const temp = typeof data === 'string' ? data : JSON.stringify(data);
     const oInput = document.createElement('input');
     oInput.value = temp;

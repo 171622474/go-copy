@@ -1,7 +1,7 @@
 {
   "name": "go-copy",
-  "version": "1.0.0",
-  "description": "this is toCopy",
+  "version": "1.0.1",
+  "description": "复制文字、复制文本",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
