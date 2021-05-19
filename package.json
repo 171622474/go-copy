@@ -1,0 +1,11 @@
+{
+  "name": "go-copy",
+  "version": "1.0.0",
+  "description": "this is toCopy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xuezhangboy@qq.com",
+  "license": "ISC"
+}
