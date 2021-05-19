@@ -1,6 +1,7 @@
 # go-copy
 
-## npm/cnpm安装
+## npm/cnpm 安装
+
 ```
 $ npm install go-copy
 or
@@ -8,7 +9,8 @@ $ cnpm install go-copy
 
 ```
 
-## yarn安装
+## yarn 安装
+
 ```
 $ yarn add go-copy
 ```
@@ -17,10 +19,12 @@ $ yarn add go-copy
 
 ```js
 import copy from 'go-copy'
-```
 
+copy('内容', function () {
+  console.log('复制成功')
+})
+```
 
 ## Licence
 
-[MIT](https://github.com/DremyGit/easy-copy/blob/master/LICENSE)
-
+[MIT](https://github.com/171622474/go-copy)
